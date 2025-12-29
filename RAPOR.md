@@ -1,5 +1,5 @@
 # 🦁 Vahşi Yaşam Sınıflandırma Projesi
-##CEREN NAZ DERVİŞOĞLU-23120205058
+## CEREN NAZ DERVİŞOĞLU-23120205058
 Bu proje, Derin Öğrenme teknikleri kullanılarak vahşi doğada bulunan 5 farklı hayvan türünü (**Aslan, Kuş, Timsah, Zebra, Zürafa**) sınıflandırmak amacıyla geliştirilmiştir. Proje, görüntü işleme ve yapay sinir ağları kullanılarak eğitilmiş bir model ve son kullanıcı için Gradio tabanlı bir web arayüzü içerir.
 
 ---
