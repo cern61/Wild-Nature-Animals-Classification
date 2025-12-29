@@ -85,7 +85,7 @@ The model's performance was measured using the following metrics:
 
 ![Confusion Matrix Results](karmasiklik_matrisi.png)
 
-```text
+
               precision    recall  f1-score   support
 
        lion       1.00      1.00      1.00         1
@@ -100,7 +100,7 @@ weighted avg       1.00      1.00      1.00         5
 
 ---
 
-## 🆚 Current Study vs Literature
+### 🆚 Current Study vs Literature
 
 | Feature | General Studies in Literature | Our Project |
 | :--- | :--- | :--- |
@@ -111,3 +111,5 @@ weighted avg       1.00      1.00      1.00         5
 | **Usage** | Scientific Analysis | End-User Interface (Gradio) |
 
 **Conclusion:** Our project offers a portable and fast solution optimized for recognizing target species in a specific region without the need for massive resources.
+
+---
