@@ -102,6 +102,8 @@ weighted avg       1.00      1.00      1.00         5
 
 ---
 
+
+
 ## 🆚 Mevcut Çalışma vs Literatür
 
 | Özellik | Literatürdeki Genel Çalışmalar | Bizim Projemiz |
