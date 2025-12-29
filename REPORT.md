@@ -90,13 +90,13 @@ The model's performance was measured using the following metrics:
 
        lion       1.00      1.00      1.00         1
        bird       1.00      1.00      1.00         1
-  crocodile       1.00      1.00      1.00         1
+      croco       1.00      1.00      1.00         1
       zebra       1.00      1.00      1.00         1
     giraffe       1.00      1.00      1.00         1
 
-    accuracy                           1.00         5
-   macro avg       1.00      1.00      1.00         5
-weighted avg       1.00      1.00      1.00         5
+    accuracy                          1.00         5
+   macro avg      1.00      1.00      1.00         5
+weighted avg      1.00      1.00      1.00         5
 
 ---
 
