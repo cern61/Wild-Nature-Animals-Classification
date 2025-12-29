@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+       aslan       1.00      1.00      1.00         1
+         kus       1.00      1.00      1.00         1
+      timsah       1.00      1.00      1.00         1
+       zebra       1.00      1.00      1.00         1
+      zurafa       1.00      1.00      1.00         1
+
+    accuracy                           1.00         5
+   macro avg       1.00      1.00      1.00         5
+weighted avg       1.00      1.00      1.00         5
